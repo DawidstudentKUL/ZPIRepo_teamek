@@ -1,2 +1,2 @@
 # ZPIRepo_teamek
-Projekt stworzony na potrzeby zajęć ZPI.
+Projekt stworzony na potrzeby zajęć ZPI..
